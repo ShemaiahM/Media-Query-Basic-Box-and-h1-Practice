@@ -1,7 +1,7 @@
 # Media-Query-Basic-Box-and-h1-Practice
 
 -- Here i ahev use the @Media Query for respsonive and moble/app first design. 
--- As demonsttrated here, Using very Basic Css and `@Media only screen` to change the layout of the page.
+-- As demonsttrated here, using very Basic Css and `@Media only screen` to change the layout of the page.
 
 
 ### Extra Wide Monitor View
